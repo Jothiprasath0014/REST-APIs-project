@@ -69,7 +69,7 @@ The ```JSON.stringify(result.data)``` is used to convert the JavaScript object (
 
 ## Screenshots
 
-![REST API web page.](/image.png "This is a REST API web-page image.")
+![REST API web page.](Readme-pics/image.png "This is a REST API web-page image.")
 
 ## Licence 
 
